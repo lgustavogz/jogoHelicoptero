@@ -1,1 +1,1 @@
-Em construção
+Jogo de naves desenvolvido com Javascript
